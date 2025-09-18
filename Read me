@@ -1,0 +1,15 @@
+ai-friend-demo/
+│
+├─ backend/
+│   ├─ server.js
+│   ├─ package.json
+│   └─ .env
+│
+└─ frontend/
+    ├─ package.json
+    ├─ tailwind.config.js
+    ├─ postcss.config.js
+    ├─ src/
+        ├─ App.js
+        ├─ index.js
+        └─ index.css
